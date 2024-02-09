@@ -1,0 +1,7 @@
+Public Static void main{
+
+
+
+
+
+}
